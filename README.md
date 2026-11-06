@@ -64,7 +64,7 @@ Input (64×64×3)
 
 ### Option A: Kaggle (easiest)
 
-1. Upload `eurosat_refined.ipynb` to [Kaggle](https://www.kaggle.com/code).
+1. Upload `eurosat.ipynb` to [Kaggle](https://www.kaggle.com/code).
 2. Turn on **GPU** and **Internet** in the notebook settings (the dataset is fetched with `kagglehub`).
 3. Click **Run All**. ☕
 
@@ -133,8 +133,8 @@ model.save("eurosat_cnn_model.keras")
 
 ```text
 .
-├── eurosat_refined.ipynb   # full notebook, ready for Kaggle
-├── eurosat_refined.py      # same code as a plain script
+├── Dataset/
+├── eurosat.ipynb   # full notebook, ready for Kaggle
 └── README.md
 ```
 
