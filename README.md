@@ -94,12 +94,13 @@ python eurosat.py
 ## 📈 Results
 
 > Run the notebook and drop your numbers in here. 👇
+Test loss: 0.1979 | Test accuracy: 
 
 | Metric | Value |
 |---|---|
-| Test accuracy | _fill in_ |
-| Test loss | _fill in_ |
-| Epochs run (early-stopped) | _fill in_ |
+| Test accuracy | 93.63% |
+| Test loss | 0.1979 |
+| Epochs run (early-stopped) | 35/40 |
 
 <!-- Tip: save your plots from the notebook and embed them:
 ![Training curves](assets/curves.png)
