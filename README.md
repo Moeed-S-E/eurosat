@@ -93,9 +93,6 @@ python eurosat.py
 
 ## 📈 Results
 
-> Run the notebook and drop your numbers in here. 👇
-Test loss: 0.1979 | Test accuracy: 
-
 | Metric | Value |
 |---|---|
 | Test accuracy | 93.63% |
