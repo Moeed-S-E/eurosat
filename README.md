@@ -166,11 +166,6 @@ All knobs are at the top of the script:
 ## 🤝 Contributing
 
 Issues and pull requests are welcome. If you have a trick that squeezes out more accuracy, open a PR.
-
-## 📄 License
-
-Choose a license (e.g. [MIT](https://choosealicense.com/licenses/mit/)) and add a `LICENSE` file. The dataset has its own terms; check the original EuroSAT source.
-
 ---
 
 <div align="center">
